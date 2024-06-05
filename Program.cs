@@ -13,7 +13,12 @@ class Program // Объявление класса Program
             string age = Console.ReadLine();
             Console.WriteLine("Чем вы занимаетесь?"); // Действия внутри метода
             string hobby = Console.ReadLine();
+<<<<<<< HEAD
       
+=======
+
+            string myName2 = "Nurdaulet";
+>>>>>>> 18e2aa97cff676617fed03140bdebf36f93416d2
             string myName3 = "Nurdaulet";
 
 
@@ -22,7 +27,12 @@ class Program // Объявление класса Program
             Console.WriteLine("Наверное, {0} - очень интересное занятие. Мне стоит попробовать", hobby);
             Console.WriteLine("Рад был познакомиться!");
             Console.WriteLine(myName3);
+<<<<<<< HEAD
            
+=======
+            Console.WriteLine(myName2);
+
+>>>>>>> 18e2aa97cff676617fed03140bdebf36f93416d2
         }
     }
 }
