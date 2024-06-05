@@ -222,6 +222,7 @@ _pkginfo.txt
 *.appx
 *.appxbundle
 *.appxupload
+*.exe
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -241,6 +242,13 @@ ClientBin/
 orleans.codegen.cs
 AssemblyInfo.cs
 AssemblyInfoInputs.cash
+FirstApp.dll 
+FirstApp.pdb 
+FirstApp.AssemblyInfo.cs
+FirstApp.AssemblyInfoInputs.cache
+FirstApp.csproj.FileListAbsolute.txt 
+apphost.exe 
+
 
 # Including strong name files can present a security risk
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
