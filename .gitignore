@@ -242,12 +242,14 @@ ClientBin/
 orleans.codegen.cs
 AssemblyInfo.cs
 AssemblyInfoInputs.cash
-FirstApp.dll 
+FirstApp.dll
+FirstApp.dlll
 FirstApp.pdb 
 FirstApp.AssemblyInfo.cs
 FirstApp.AssemblyInfoInputs.cache
 FirstApp.csproj.FileListAbsolute.txt 
 apphost.exe 
+Debug
 
 
 # Including strong name files can present a security risk
