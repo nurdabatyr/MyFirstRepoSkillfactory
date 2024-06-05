@@ -21,7 +21,7 @@ class Program // Объявление класса Program
             Console.WriteLine("Мне сообщили что вам {0}  лет", age);
             Console.WriteLine("Наверное, {0} - очень интересное занятие. Мне стоит попробовать", hobby);
             Console.WriteLine("Рад был познакомиться!");
-            Console.WriteLine(myName2);
+
         }
     }
 }

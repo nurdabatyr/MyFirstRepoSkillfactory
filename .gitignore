@@ -249,7 +249,8 @@ FirstApp.AssemblyInfo.cs
 FirstApp.AssemblyInfoInputs.cache
 FirstApp.csproj.FileListAbsolute.txt 
 apphost.exe 
-Debug
+Debug/
+
 
 
 # Including strong name files can present a security risk
