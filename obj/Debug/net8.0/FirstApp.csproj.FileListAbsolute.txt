@@ -12,3 +12,4 @@ E:\Work\Visual Studio\Projects\SkillFactoryLessonCsharp\FirstApp\obj\Debug\net8.
 E:\Work\Visual Studio\Projects\SkillFactoryLessonCsharp\FirstApp\obj\Debug\net8.0\FirstApp.pdb
 E:\Work\Visual Studio\Projects\SkillFactoryLessonCsharp\FirstApp\obj\Debug\net8.0\FirstApp.genruntimeconfig.cache
 E:\Work\Visual Studio\Projects\SkillFactoryLessonCsharp\FirstApp\obj\Debug\net8.0\ref\FirstApp.dll
+E:\Work\Visual Studio\Projects\SkillFactoryLessonCsharp\FirstApp\obj\Debug\net8.0\FirstApp.sourcelink.json
